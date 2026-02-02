@@ -1,4 +1,4 @@
-# 🏠 Private Property Rental Platform (Airbnb Clone)
+# 🏠 Private Property Rental Platform (Airbnb)
 
 A modern Airbnb-inspired web application built using **React.js** where users can explore rental categories and list their own properties after login.
 
