@@ -1,12 +1,54 @@
-<<<<<<< HEAD
-# React + Vite
+# 🏠 Private Property Rental Platform (Airbnb Clone)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern Airbnb-inspired web application built using **React.js** where users can explore rental categories and list their own properties after login.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
-# PPR-Airbnb-Project
->>>>>>> d5f2587c9a5426cbc86b47b38ce2ebeb75ac36e3
+## 🚀 Features
+
+✅ Responsive Navbar with Categories  
+✅ Login & Signup Authentication Flow  
+✅ Protected Route: “List Your Home” works only after Login  
+✅ Logout Functionality  
+✅ Airbnb-style UI Design  
+✅ React Router Multi-page Navigation  
+
+---
+
+## 🛠 Tech Stack
+
+- **React.js**
+- **Vite**
+- **React Router DOM**
+- **React Icons**
+- **CSS3**
+
+---
+
+## 📂 Pages Included
+
+- Home Page  
+- Houses Page  
+- Login Page  
+- Signup Page  
+- Listing Page (Protected)  
+- Contact Us Page  
+
+---
+
+## 🔐 Authentication Logic
+
+- User must login before accessing **Listing Page**
+- Wrong password shows: **Username or Password Incorrect**
+- Signup automatically stores credentials
+
+---
+
+## 📸 Screenshots
+
+(Add screenshots here)
+
+Example:
+
+```markdown
+![Home Page](./screenshots/home.png)
